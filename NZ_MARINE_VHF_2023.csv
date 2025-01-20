@@ -56,4 +56,4 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 54,SEA 85,161.875000,-,4.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,Public Correspondence Duplex,,,,
 55,SEA 86,161.925000,-,4.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,Public Correspondence Duplex,,,,
 56,SEA 87,157.375000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,Port Operations & Ship Movements,,,,
-57,SEA 88,157.425000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+57,SEA 88,157.425000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,Port Operations & Ship Movements,,,,
